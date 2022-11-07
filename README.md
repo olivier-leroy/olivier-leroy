@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olivier-leroy
 - 👀 I’m interested in Optic, Microscopy and Game of GO
-- 🌱 I’m currently learning [Prelude of JS Bach]([url](https://www.youtube.com/watch?v=NIluiHEJqS0))
+- 🌱 I’m currently learning Prelude of JS Bach - https://www.youtube.com/watch?v=NIluiHEJqS0
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me olivier.leroy@curie.fr
 
